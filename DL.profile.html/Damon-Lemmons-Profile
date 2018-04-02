@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="profile.css">
+    <title>Damon Profile</title>
+  </head>
+
+    <body>
+
+
+
+        <div id="nameandnav">
+
+            <h1>Damon Lemmons</h1>
+
+            <br>
+
+            <div id="navbar">
+                <a href="#aboutme">About Me</a>  | <a href= "#professional">Professional</a> |  <a href="#hobbies">Hobbies</a>  | <a href="#advocacyinterests">Advocacy & Interests</a>
+            </div>
+
+        </div>
+
+  <div id="aboutmesection">
+
+      <h3 class="subheading" id="aboutme">About Me</h3>
+
+      <img alt="Yoga Pose" id="yogapic" src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/1/000/261/1e1/2110e72.jpg">
+
+      <p>Hi!  I'm Damon.  I've been described as patient, kind, calm, friendly,
+        respectful and empathetic.  I'm originally from Louisiana but after I left for college, I bounced around quite a bit.  I have lived in...</p>
+
+
+      <div id="citylist">
+        <ul>
+          <li> Baton Rouge</li>
+          <li> Tucson (Arizona)</li>
+          <li> Phoenix </li>
+          <li> San Jose (CA) </li>
+          <li> San Francisco </li>
+          <li> San Diego</li>
+        </ul>
+      </div>
+
+
+      <br>
+
+          <p>I'm new to San Diego and I'm excited because this city seems to blend everything that I loved about all the other places I've lived (beautiful weather, beachy vibe, friendly faces, progressive attitudes).</p>
+
+      </div>
+
+      <h4><a href="#nameandnav">Back to the Top</a></h4>
+
+    <div id="professionalsection">
+      <h3 class="subheading" id="professional">Professional</h3>
+      <img alt="Teacher" id="profpic" src="https://cdn.pixabay.com/photo/2016/10/30/05/43/aec-1782427_960_720.jpg">
+        <p>I've sort of gone overboard with this section of my life as I have held many jobs over the years.  I have a BFA in Modern Dance and a Master's of Nonprofit Management.  I also have a Clear CA K-8 Multiple Subjects Teaching Credential and an CA Administrative Credential.  I have worked for a small professional dance company (briefly), an antibullying nonprofit agency, and an elementary school.  My last six years were spent teaching 2nd grade and teaching a technology class to kids in kindergarten - 5th grade (computer teacher).  I also served as an Interim Principal of an elementary school for about 7 months.  That was a wild ride to say the least.  Needless to say, I've decided to venture into the tech world and pursue web development at Learn Academy.  I'm excited to bring along my life experiences, passions and interests in pursuit of a career that appeals to my affinity for puzzles, problem solving, introversion and technology. </p>
+    </div>
+
+    <h4><a href="#nameandnav">Back to the Top</a></h4>
+
+ <div id="hobbysection">
+      <h3 class="subheading" id="hobbies">Hobbies</h3>
+      <a href="https://www.youtube.com/watch?v=Mu04PamZGZA" target="_blank"><img alt="jumprope" id="hobbypic" src="https://storage.googleapis.com/wzukusers/user-15001990/images/55c54d80a78cbo6sIFcc/JRFL-Logo-Final-2015_1450.png"></a>
+        <p>I'm the king of all things unusual.  For example, I joined a competitive jump rope team when I was in 5th grade and continued jumping even after college. I'm still involved today, but I'm hoping to do even more now that I found a team in San Diego.  <a href="https://www.youtube.com/watch?v=Mu04PamZGZA" target="_blank">CLICK HERE</a> or on the picture to see a video of me jumping rope throughout my childhood and college years.  Other hobbies include modern and hip hop dance, singing (although I'm not very good at this - yet) and hiking. </p>
+      </div>
+
+      <h4><a href="#nameandnav">Back to the Top</a></h4>
+
+    <div id="advocacysection">
+      <h3 class="subheading" id="advocacyinterests">Advocacy & Interests</h3>
+      <img alt="rainbow" id="rainbowpic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJbsIfYSyCUTn-Vpoq1_Nf7u35O_bTw-3ZApWxsPpes-fRqOMV">
+        <p>There are many issues that I'm passionate about.  I am an advocate for LGBTQ rights, closing the opportunity gap amongst underrepresented communities (in education, career and life), antibullying, reducing stigma for those who experience anxiety and depression, therapy, mindfulness, meditation, the arts as a profession, giving back to the community and many other things.  I believe in the "new rich" (weatlh based on free time and not money), self-care and a work/life balance.  I am also passionate about mimimalism, tiny homes, digitizing and decluttering.  Less is more! </p>
+      </div>
+
+
+
+      <h4><a href="#nameandnav">Back to the Top</a></h4>
+
+  </body>
+</html>
