@@ -1,0 +1,120 @@
+
+
+
+ body {
+     background-image:
+     url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYxtJZ8btwBcnEbD69_ofJeRzcRTacoIJMr28hRTAEYWUog3jw4Q");
+     font-size: 20px;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+     background-size: cover;
+     margin: 5%
+ }
+
+  #nameandnav {
+      font-size: 20px;
+     background-color: rgb(192, 192, 192);
+     border-style: solid;
+     border-width: thick;
+     display:block;
+     padding-top: 1%;
+     padding-bottom: 3%;
+     text-align:center;
+     margin-bottom: auto;
+     text-decoration:underline;
+     line-height: 10px;
+  }
+
+  #navbar {
+      display: block;
+    text-align: center;
+    padding-bottom: 2%;
+    font-size: 20px;
+    clear: both;
+  }
+
+  .subheading {
+    display:block;
+    text-decoration: underline;
+    clear:both;
+    font-size: 30px;
+  }
+
+  #citylist {
+    display: inline-block;
+  }
+
+  #aboutmesection {
+    display:block;
+    clear: both;
+    padding-top: 10%;
+    padding-bottom: 2%;
+
+  }
+
+  #professionalsection {
+    display:block;
+    clear: both;
+    padding-bottom: 2%;
+  }
+
+  #hobbysection {
+    display:block;
+    clear: both;
+    padding-bottom: 2%;
+  }
+
+  #advocacysection {
+    display:block;
+    clear: both;
+    padding-bottom: 2%;
+  }
+
+  #yogapic {
+      display:block;
+      float: right;
+      width:150px;
+      margin-left: 5%;
+      clear: both;
+      border-radius: 10px;
+
+  }
+  /*liked this too for yogapic
+  z-index: -1;
+  opacity:.4*/
+
+  #profpic {
+      border-style: solid;
+    display: block;
+      margin-right: 25px;
+      width: 200px;
+      float:left;
+      border-radius: 10px;
+  }
+
+  #hobbypic {
+  display: block;
+    margin-left: 5px;
+    margin-right: 25px;
+    width:150px;
+    float:right;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+  }
+
+  #rainbowpic {
+    display: block;
+      margin-right: 25px;
+      width: 200px;
+      float:left;
+      border-radius: 10px;
+     border-style: solid;
+
+  }
+
+  h4 {
+    display: block;
+    clear:both;
+  }
